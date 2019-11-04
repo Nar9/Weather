@@ -1,0 +1,291 @@
+{"countries" : [
+  {
+    "id": 616052,
+    "name": "Yerevan",
+    "country": "AM",
+    "coord": {
+      "lon": 44.513611,
+      "lat": 40.18111
+    }
+  },
+  {
+    "id": 4915545,
+    "name": "Washington",
+    "country": "US",
+    "coord": {
+      "lon": -89.40731,
+      "lat": 40.703651
+    }
+  },
+  {
+    "id": 524901,
+    "name": "Moscow",
+    "country": "RU",
+    "coord": {
+      "lon": 37.615555,
+      "lat": 55.75222
+    }
+  },
+  {
+    "id": 3435910,
+    "name": "Buenos Aires",
+    "country": "AR",
+    "coord": {
+      "lon": -58.377232,
+      "lat": -34.613152
+    }
+  },
+  {
+    "id": 2761369,
+    "name": "Vienna",
+    "country": "AT",
+    "coord": {
+      "lon": 16.37208,
+      "lat": 48.208488
+    }
+  },
+  {
+    "id": 2800866,
+    "name": "Brussels",
+    "country": "BE",
+    "coord": {
+      "lon": 4.34878,
+      "lat": 50.850449
+    }
+  },
+  {
+    "id": 3469058,
+    "name": "Brasilia",
+    "country": "BR",
+    "coord": {
+      "lon": -47.929722,
+      "lat": -15.77972
+    }
+  },
+  {
+    "id": 6094817,
+    "name": "Ottawa",
+    "country": "CA",
+    "coord": {
+      "lon": -75.69812,
+      "lat": 45.411171
+    }
+  },
+  {
+     "id": 1816670,
+     "name": "Beijing",
+     "country": "CN",
+     "coord": {
+       "lon": 116.397232,
+       "lat": 39.907501
+     }
+   },
+  {
+     "id": 3553478,
+     "name": "Havana",
+     "country": "CU",
+     "coord": {
+       "lon": -82.383041,
+       "lat": 23.13302
+     }
+   },
+  {
+    "id": 3067696,
+    "name": "Prague",
+    "country": "CZ",
+    "coord": {
+      "lon": 14.42076,
+      "lat": 50.088039
+    }
+  },
+  {
+     "id": 360630,
+     "name": "Cairo",
+     "country": "EG",
+     "coord": {
+       "lon": 31.24967,
+       "lat": 30.06263
+     }
+   },
+  {
+     "id": 658224,
+     "name": "Helsinki",
+     "country": "FI",
+     "coord": {
+       "lon": 21.438101,
+       "lat": 60.60778
+     }
+   },
+  {
+    "id": 6455259,
+    "name": "Paris",
+    "country": "FR",
+    "coord": {
+      "lon": 2.35236,
+      "lat": 48.856461
+    }
+  },
+  {
+    "id": 611717,
+    "name": "Tbilisi",
+    "country": "GE",
+    "coord": {
+      "lon": 44.833679,
+      "lat": 41.694111
+    }
+  },
+  {
+    "id": 2950158,
+    "name": "Berlin",
+    "country": "DE",
+    "coord": {
+      "lon": 10.45,
+      "lat": 54.033329
+    }
+  },
+  {
+    "id": 264371,
+    "name": "Athens",
+    "country": "GR",
+    "coord": {
+      "lon": 23.716221,
+      "lat": 37.97945
+    }
+  },
+  {
+    "id": 1261481,
+    "name": "New Delhi",
+    "country": "IN",
+    "coord": {
+      "lon": 77.23114,
+      "lat": 28.61282
+    }
+  },
+  {
+     "id": 112931,
+     "name": "Tehran",
+     "country": "IR",
+     "coord": {
+       "lon": 51.421509,
+       "lat": 35.694389
+     }
+   },
+  {
+     "id": 2964574,
+     "name": "Dublin",
+     "country": "IE",
+     "coord": {
+       "lon": -6.26719,
+       "lat": 53.34399
+     }
+   },
+  {
+     "id": 281184,
+     "name": "Jerusalem",
+     "country": "IL",
+     "coord": {
+       "lon": 35.216331,
+       "lat": 31.769039
+     }
+   },
+  {
+     "id": 1850147,
+     "name": "Tokyo",
+     "country": "JP",
+     "coord": {
+       "lon": 139.691711,
+       "lat": 35.689499
+     }
+   },
+  {
+    "id": 456172,
+    "name": "Riga",
+    "country": "LV",
+    "coord": {
+      "lon": 24.1,
+      "lat": 56.950001
+    }
+  },
+  {
+    "id": 1070940,
+    "name": "Antananarivo",
+    "country": "MG",
+    "coord": {
+      "lon": 47.536129,
+      "lat": -18.913679
+    }
+  },
+  {
+    "id": 1282027,
+    "name": "Male",
+    "country": "MV",
+    "coord": {
+      "lon": 73.508881,
+      "lat": 4.1748
+    }
+  },
+  {
+     "id": 3530597,
+     "name": "Mexico City",
+     "country": "MX",
+     "coord": {
+       "lon": -99.127663,
+       "lat": 19.428471
+     }
+   },
+  {
+    "id": 2538474,
+    "name": "Rabat",
+    "country": "MA",
+    "coord": {
+      "lon": -6.84006,
+      "lat": 33.991112
+    }
+  },
+  {
+    "id": 290030,
+    "name": "Doha",
+    "country": "QA",
+    "coord": {
+      "lon": 51.533333,
+      "lat": 25.286667
+    }
+  },
+  {
+     "id": 1880252,
+     "name": "Singapore",
+     "country": "SG",
+     "coord": {
+       "lon": 103.850067,
+       "lat": 1.28967
+     }
+   },
+  {
+     "id": 6359304,
+     "name": "Madrid",
+     "country": "ES",
+     "coord": {
+       "lon": -3.68275,
+       "lat": 40.489349
+     }
+   },
+  {
+    "id": 1609350,
+    "name": "Bangkok",
+    "country": "TH",
+    "coord": {
+      "lon": 100.51667,
+      "lat": 13.75
+    }
+  },
+  {
+    "id": 2643743,
+    "name": "London",
+    "country": "GB",
+    "coord": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    }
+  }
+]
+}
